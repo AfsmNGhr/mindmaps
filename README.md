@@ -6,4 +6,4 @@ My first a mind map built in university.
 
 Second work about `msfconsole` (Metasploit Framework).
 
-![msfconsole](./Msconsole.gif)
+![msfconsole](./Msfconsole.gif)
