@@ -12,7 +12,7 @@ Second work about `msfconsole` (Metasploit Framework). Please, click `Open image
 
 A mindmap summarising self-education concepts.
 
-![self-education](./Саморазвитие .png)
+![self-education]('./Саморазвитие .png')
 
 Base scheme AI.
 
@@ -20,7 +20,7 @@ Base scheme AI.
 
 Trello Power-Up concept.
 
-![Trello Power-Ups](./Trello Power-Ups.png)
+![Trello Power-Ups]('./Trello Power-Ups.png')
 
 Architecture Design Example with microservices.
 
