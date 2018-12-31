@@ -20,7 +20,7 @@ Base scheme AI.
 
 Trello Power-Up concept.
 
-![Trello Power-Up](trello_power-up.png')
+![Trello Power-Up](trello_power-up.png)
 
 Architecture Design Example with microservices.
 
