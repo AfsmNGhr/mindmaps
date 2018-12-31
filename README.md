@@ -1,8 +1,8 @@
 ## My concept mindmaps
 
-Includes source files built with Xmind. Some aren't finished.
+Includes source files built with [Xmind](https://www.xmind.net/). Some aren't finished.
 
-My first a mind map built in university.
+My first a mind map built in the university.
 
 ![Lasers](Лазеры.png)
 
@@ -14,7 +14,7 @@ A mindmap summarising self-education concepts.
 
 ![self-education](self-education.png)
 
-Base scheme AI.
+Base scheme AI. (**INCOMPLETE**)
 
 ![AI](ИИ.png)
 
